@@ -1,0 +1,13 @@
+unstructured==0.16.6
+pdfminer.six
+pillow 
+pi_heif
+unstructured_inference
+poppler-utils
+pdf2image 
+unstructured_pytesseract
+ollama,llama_index
+llama_index.embeddings.huggingface
+einops
+qdrant_client
+llama_index.llms.ollama

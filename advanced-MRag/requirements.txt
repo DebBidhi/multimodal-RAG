@@ -1,0 +1,9 @@
+--find-links https://download.pytorch.org/whl/cu118
+torch
+torchvision
+torchaudio
+numpy
+matplotlib
+datasets
+transformers
+ollama
